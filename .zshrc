@@ -104,6 +104,7 @@ source $ZSH/oh-my-zsh.sh
 # aliases
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias gitl='git log --oneline --graph --color --all --decorate'
+alias meld='flatpak run org.gnome.meld'
 
 # exports
 export "PATH=$PATH:/opt/nvim-linux64/bin"
