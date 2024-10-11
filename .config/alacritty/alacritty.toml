@@ -1,5 +1,5 @@
 general.import = [
-	"~/.config/alacritty/themes/themes/gruvbox_light.toml"
+	"~/.config/alacritty/themes/themes/gruvbox_dark.toml"
 ]
 # $HOME/.config/alacritty/alacritty.toml
 # by Rito Ghosh 2023-10-06

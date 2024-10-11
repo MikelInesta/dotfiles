@@ -35,3 +35,6 @@ vim.keymap.set('n', '<leader>q', ':q<CR>')
 
 -- <leader>w for saving
 vim.keymap.set('n', '<leader>w', ':w<CR>')
+
+-- <leader>o for Oil in the current directory
+vim.keymap.set('n', '<leader>o', ':Oil .<CR>')
